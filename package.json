@@ -1,0 +1,15 @@
+{
+  "name": "tarea1navegador",
+  "version": "1.0.0",
+  "description": "Mostrar los resultados de tarea 1 a través de un navegador",
+  "main": "principal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Estiven Ramirez estiuv20@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "yargs": "^13.2.2"
+  }
+}
