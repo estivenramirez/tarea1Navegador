@@ -3,8 +3,9 @@ datos.js
 principal.js
 
 # Requiere de los módulos yargs, express
-npm install yargs
-npm install express
+Clonar el proyect
+Ejecutar npm install
+Con esto se instalan los módulos yargs y express
 
 # Listar los cursos
 node principal
